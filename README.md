@@ -5,5 +5,7 @@ For the creation of this robot, I researched many minisumo robot competitions to
 
 ![Alt Robot](/Images/20151202_010722.jpg)
 
+<img title="a title" alt="Alt text" src="/Images/20151202_010722.jpg" style="width:100px;">
+
 Point to improve: 
   -Add a charging point for the robot batteries
