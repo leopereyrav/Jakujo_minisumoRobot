@@ -1,4 +1,4 @@
-# Jakujo Minisumo Robot
+<h1 align="center">Jakujo Minisumo Robot</h1>
 
 Jakujo is the first robot that I built and programmed in the year 2015 with the C++ programming language on arduino. It is a minisum robot that participated in a competition within my university and got second place.
 
